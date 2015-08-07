@@ -85,7 +85,6 @@ public class ActivityOne extends Activity {
 			mRestart = savedInstanceState.getInt(RESTART_KEY);
 			mStart = savedInstanceState.getInt(START_KEY);
 			mResume = savedInstanceState.getInt(RESUME_KEY);
-
 		}
 
 		// Emit LogCat message
